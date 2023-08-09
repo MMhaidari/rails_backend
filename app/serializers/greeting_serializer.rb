@@ -1,4 +1,3 @@
 class GreetingSerializer < ActiveModel::Serializer
-    attributes :id, :message
-  end
-  
+  attributes :id, :message
+end
